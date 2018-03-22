@@ -7,4 +7,4 @@ new line
 
 one more line
 
-resolve conflict
+eddited again for new branch
